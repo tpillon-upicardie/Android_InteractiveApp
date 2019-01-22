@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InteractiveApplication</string>
+    <string name="change_color">Change color</string>
+    <string name="change_style">Change style</string>
+    <string name="change_text">Change text</string>
+
+    <!--
+    Formatted string
+    SOURCE : https://developer.android.com/guide/topics/resources/string-resource#FormattingAndStyling
+    -->
+    <string name="entered_text">you enter : %1$s </string>
+    <string name="new_text">you click %1$d %2$s</string>
+    <string name="styled_text">text from style</string>
+    <string name="enter_text_here">enter text here</string>
+    <string name="empty_text">text is empty</string>
+    <string name="come_back">Come back</string>
+</resources>

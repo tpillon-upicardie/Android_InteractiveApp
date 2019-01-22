@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="entered_text">tu as entré : %1$s </string>
+    <string name="new_text">tu as clické %1$d %2$s</string>
+    <string name="styled_text">text venant d\'un style</string>
+    <string name="enter_text_here">entre ton text ici</string>
+    <string name="empty_text">les text est vide !</string>
+    <string name="come_back">retour</string>
+
+</resources>
